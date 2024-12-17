@@ -15,9 +15,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedromimoraes&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=true&order=2" height="145" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=pedromimoraes&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=pt-br&hide_border=true&order=1" height="145" alt="stats graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/pedromimoraes/pedromimoraes/output/snake.svg" alt="Snake animation" />
-
-###
